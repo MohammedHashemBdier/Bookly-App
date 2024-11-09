@@ -13,6 +13,13 @@ class SplashViewBody extends StatelessWidget {
         Image.asset(
           AssetsData.assetsDataImagesLogo,
         ),
+        const SizedBox(
+          height: 10,
+        ),
+        const Text(
+          "Reed Free Books",
+          textAlign: TextAlign.center,
+        ),
       ],
     );
   }
