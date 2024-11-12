@@ -8,8 +8,12 @@ abstract class AppStyles {
   );
   static const textStyle20 = TextStyle(
     fontSize: 20,
-    fontFamily: kGtSectraFine,
     fontWeight: FontWeight.normal,
+  );
+  static const textStyle20GtSectraFine = TextStyle(
+    fontSize: 20,
+    fontWeight: FontWeight.normal,
+    fontFamily: kGtSectraFine,
     letterSpacing: 1.2,
   );
   static const textStyle30 = TextStyle(
