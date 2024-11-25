@@ -1,8 +1,8 @@
 import 'package:bookly_app/core/widgets/book_list_view_item.dart';
 import 'package:flutter/material.dart';
 
-class NewstListView extends StatelessWidget {
-  const NewstListView({super.key});
+class NewestListView extends StatelessWidget {
+  const NewestListView({super.key});
 
   @override
   Widget build(BuildContext context) {
