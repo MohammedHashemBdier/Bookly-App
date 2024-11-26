@@ -56,7 +56,6 @@ class BookDetailsSection extends StatelessWidget {
           height: 37,
         ),
         BooksAction(
-          price: "Free",
           bookModel: book,
         ),
       ],
