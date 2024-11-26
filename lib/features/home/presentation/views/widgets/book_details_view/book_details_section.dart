@@ -18,7 +18,7 @@ class BookDetailsSection extends StatelessWidget {
             horizontal: width * .2,
           ),
           child: const CustomBookImage(
-            imageURL:
+            imageUrl:
                 "https://images.booksense.com/images/403/353/9780590353403.jpg",
           ),
         ),

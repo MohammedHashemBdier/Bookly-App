@@ -16,7 +16,7 @@ class SimilarBooksListView extends StatelessWidget {
               horizontal: 5,
             ),
             child: CustomBookImage(
-              imageURL:
+              imageUrl:
                   "https://images.booksense.com/images/403/353/9780590353403.jpg",
             ),
           );
